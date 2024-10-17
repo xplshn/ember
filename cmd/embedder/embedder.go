@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/xplshn/ember/mod-mod/embedding"
+	"github.com/xplshn/ember/embedding"
 )
 
 // CommandLine configuration

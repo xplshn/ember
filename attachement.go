@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/xplshn/ember/mod-mod/internal"
+	"github.com/xplshn/ember/internal"
 )
 
 // Attachments represent embedded data in an executable.

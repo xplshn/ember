@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/xplshn/ember/mod-mod/internal"
+	"github.com/xplshn/ember/internal"
 )
 
 const compatibleVersion = "maja42/ember/v1"
