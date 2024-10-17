@@ -1,3 +1,3 @@
-module github.com/xplshn/ember/mod-mod
+module github.com/xplshn/ember
 
 go 1.15
