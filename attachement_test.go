@@ -7,8 +7,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/maja42/ember/internal"
 	"github.com/stretchr/testify/assert"
+	"github.com/xplshn/ember-pr/mod-mod/internal"
 )
 
 func TestAttachments(t *testing.T) {

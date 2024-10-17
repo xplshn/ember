@@ -9,9 +9,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/maja42/ember"
-	"github.com/maja42/ember/internal"
 	"github.com/stretchr/testify/assert"
+	"github.com/xplshn/ember-pr/mod-mod/ember"
+	"github.com/xplshn/ember-pr/mod-mod/internal"
 )
 
 func TestEmbed(t *testing.T) {
