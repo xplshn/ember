@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/maja42/ember"
+	"github.com/xplshn/ember/mod-mod"
 )
 
 func main() {

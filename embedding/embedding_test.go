@@ -10,8 +10,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/xplshn/ember-pr/mod-mod/ember"
-	"github.com/xplshn/ember-pr/mod-mod/internal"
+	"github.com/xplshn/ember/mod-mod/ember"
+	"github.com/xplshn/ember/mod-mod/internal"
 )
 
 func TestEmbed(t *testing.T) {
